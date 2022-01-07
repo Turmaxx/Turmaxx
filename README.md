@@ -2,8 +2,8 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Discord: BK#2803
--                      Telegram: @HiddenGrizzly
+- 📫 How to reach me: Discord: BK#2803 , Telegram: @HiddenGrizzly
+-              
 - 
 
 <!---
