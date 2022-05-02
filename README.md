@@ -1,3 +1,3 @@
 # Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![](https://hit.yhype.me/github/profile?user_id=88465473)
+[![Brook's GitHub stats](https://github-readme-stats.vercel.app/api?username=brook-seyoum)](https://github.com/anuraghazra/github-readme-stats)
