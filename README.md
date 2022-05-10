@@ -9,3 +9,5 @@ My name is Brook, I'm a second year computer science student.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brook-seyoum&layout=compact" />
 </a> -->
+
+<!-- ![](https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/footers/gray0_ctp_on_line.svg?sanitize=true) -->
