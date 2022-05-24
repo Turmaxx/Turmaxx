@@ -25,3 +25,7 @@
 
 
 <!-- <img href ="https://www.w3schools.com/tags/tag_img.asp" src = "https://media0.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47rx76omylocrnlj4s8rhgbkas35566fkw45co8m55&rid=giphy.gif&ct=g" height = 120> -->
+
+
+<!-- rick roll ASCII => https://www.youtube.com/watch?v=ahnfLZKwnTg
+rick roll normal => https://www.youtube.com/watch?v=dQw4w9WgXcQ -->
