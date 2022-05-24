@@ -22,3 +22,6 @@
 
 
 <!-- ![](https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/footers/gray0_ctp_on_line.svg?sanitize=true) kool cat -->
+
+
+<img href ="https://www.w3schools.com/tags/tag_img.asp" src = "https://media0.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47rx76omylocrnlj4s8rhgbkas35566fkw45co8m55&rid=giphy.gif&ct=g" height = 120>
