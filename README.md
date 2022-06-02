@@ -1,4 +1,7 @@
-# Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px">
+<!-- # Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px"> -->
+
+# Hey! <img align = middle href= "https://www.linux.org/" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  width="40px" height="40px"/>
+          
 
 
 <!-- My name is Brook, I'm a second year computer science student.
