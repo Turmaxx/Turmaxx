@@ -7,7 +7,7 @@
 <p align="center"><br>
     <samp>
         <b>
-            <i>I am (2nd yr) CS student at the university of Guelph.<br />
+            <i>I am CS student at the university of Guelph.<br />
             I read alot and write code.<br />
             I enjoy working on projects and anything that makes my life easier.<br />
             </i>
