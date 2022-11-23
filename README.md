@@ -78,4 +78,6 @@ rick roll ASCII => https://www.youtube.com/watch?v=ahnfLZKwnTg
 rick roll normal => https://www.youtube.com/watch?v=dQw4w9WgXcQ 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FA9A&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Brook;I'm+Linux+Enthusiat;I'm+from+LocalHost;I'm+Studying+Computer+Science;:%20)](https://git.io/typing-svg) 
+
+(https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
