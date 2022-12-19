@@ -1,5 +1,5 @@
 <!-- Wave SVG -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1d3b5e&height=120&section=header"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1d3b5e&height=120&section=header"/> -->
 
 
 <h3 align="center"> 
@@ -63,7 +63,7 @@
 
 
 <!-- Holopin -->
-[![@turmaxx's Holopin board](https://holopin.me/turmaxx)](https://holopin.io/@turmaxx)
+<!-- [![@turmaxx's Holopin board](https://holopin.me/turmaxx)](https://holopin.io/@turmaxx) -->
 
 <!-- Meow -->
 <p align="center">
@@ -71,7 +71,7 @@
 </p>
 
 <!-- Wave SVG -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1d3b5e&height=120&section=footer"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1d3b5e&height=120&section=footer"/> -->
 
 <!-- 
 rick roll ASCII => https://www.youtube.com/watch?v=ahnfLZKwnTg 
