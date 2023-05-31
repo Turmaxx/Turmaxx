@@ -1,7 +1,6 @@
 ## Hey :), I'm Brook 👋
 
 🎓 Computer Science Undergrad @ University of Guelph <br/>
-🛠️ Prev Platform Engineering Intern @ [Mirantis](https://www.mirantis.com/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brook-seyoum/)](https://www.linkedin.com/in/brook-seyoum/)
 [![wakatime](https://wakatime.com/badge/user/97caa308-58bc-4140-8be0-745d715efb8d.svg)](https://wakatime.com/@brookseyoum)
