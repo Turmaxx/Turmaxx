@@ -9,15 +9,15 @@
     <p align="left">
         <!-- Github Stats -->
         <img width=400px
-            src="https://github-readme-stats.vercel.app/api?username=Turmaxx&include_all_commits=true&count_private=true&show_icons=true&theme=dark">
+            src="https://github-readme-stats.vercel.app/api?username=turmaxx&include_all_commits=true&count_private=true&show_icons=true&theme=dark">
         <br />
         <!-- Github Streak -->
         <img width=400px
-            src="https://github-readme-streak-stats.herokuapp.com/?user=Turmaxx&show_icons=true&count_private=true&theme=dark">
+            src="https://github-readme-streak-stats.herokuapp.com/?user=turmaxx&show_icons=true&count_private=true&theme=dark">
         <br />
         <!-- Leetcode Stats -->
         <img width=400px
-            src="https://leetcode.card.workers.dev/?username=Turmaxx&theme=dark">
+            src="https://leetcode.card.workers.dev/?username=turmaxx&theme=dark">
     </p>
 </details>
 
