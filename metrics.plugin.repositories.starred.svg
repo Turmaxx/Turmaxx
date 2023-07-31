@@ -24,7 +24,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Turmaxx/docker-resume-template</span>
-                                        <span>created 28 days ago</span>
+                                        <span>created 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Latex Resume Template that uses docker to compile to PDF</div>
@@ -137,9 +137,9 @@
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                            <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                         </svg>
-                                        JavaScript
+                                        Dockerfile
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -336,7 +336,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Turmaxx/katas</span>
-                                        <span>created 11 days ago</span>
+                                        <span>created 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">solutions to katas on codewars that I have done since high school</div>
@@ -389,7 +389,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Turmaxx/concurrency-abstractions-in-go</span>
-                                        <span>created 18 days ago</span>
+                                        <span>created 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Go  Concurrency Code Models</div>
